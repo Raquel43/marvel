@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "INferno",
+        "autor": "Hickman, Schiti",
+        "coleccion": "#1",
+        "imagen": "00.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Extreme Carnage Omega",
+        "autor": "Johnson, Garcia",
+        "coleccion": "#1",
+        "imagen": "01.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "S.W.O.R.D.",
+        "autor": "Ewing, Vilanova",
+        "coleccion": "#8",
+        "imagen": "02.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Moon Knight",
+        "autor": "Mackay, Cappuccio",
+        "coleccion": "#2",
+        "imagen": "03.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Darkhawk",
+        "autor": "Higgins, Ramirez",
+        "coleccion": "#2",
+        "imagen": "04.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Winter Guard",
+        "autor": "Cady, Bazaldua",
+        "coleccion": "#2",
+        "imagen": "05.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Black Cat",
+        "autor": "Mackay, Villa",
+        "coleccion": "#10",
+        "imagen": "06.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Wolverine",
+        "autor": "Percy, Kubert",
+        "coleccion": "#16",
+        "imagen": "07.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Non-Stop Spider-Man",
+        "autor": "Kelly, Bachalo",
+        "coleccion": "#5",
+        "imagen": "08.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Thor",
+        "autor": "Cates, Bandini",
+        "coleccion": "#17",
+        "imagen": "09.jpg"
+    }
+]

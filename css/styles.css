@@ -1,0 +1,41 @@
+h2 {
+  background-color: black;
+  color: white;
+}
+#logo {
+  background-color: black;
+  text-align: center;
+}
+#logo img {
+  width: 20%;
+}
+#container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1rem;
+}
+.imagen {
+  width: 70%;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.contenedor:hover .imagen {
+  /* width: 100%;*/
+  transition: all 0.5s ease-in-out;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+  padding-top: 10px;
+}
+
+.contenedor {
+  text-align: center;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  height: 30px;
+  text-align: center;
+}
